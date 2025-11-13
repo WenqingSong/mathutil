@@ -1,0 +1,5 @@
+package mathutil
+
+func main() {
+
+}
